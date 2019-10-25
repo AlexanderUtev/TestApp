@@ -10,9 +10,9 @@ import Avatar from '@vkontakte/vkui/dist/components/Avatar/Avatar';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>Test App</PanelHeader>
+		<PanelHeader>Utev App v1.0</PanelHeader>
 		{fetchedUser &&
-		<Group title="Здарова!">
+		<Group title="Здравствуйте!">
 			<Cell
 				before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}
 				description={fetchedUser.city && fetchedUser.city.title ? fetchedUser.city.title : ''}
@@ -21,10 +21,13 @@ const Home = ({ id, go, fetchedUser }) => (
 			</Cell>
 		</Group>}
 
-		<Group title="Функции:">
+		<Group title="Выберите функцию:">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Показать хуй!
+					Показать Персика!
+				</Button>
+				<Button style={{marginTop: 15}}  size="xl" level="2" onClick={go} data-to="artem">
+					Показать Артёма!
 				</Button>
 			</Div>
 		</Group>
