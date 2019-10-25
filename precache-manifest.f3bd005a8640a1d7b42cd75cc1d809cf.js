@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e35833dd50803713cbfbaf2d17bd569f",
+    "revision": "b40aeb1b29f8f13dd45b92b3f70db46b",
     "url": "/autev2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/autev2/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "d69c7fa4711b273b6a9a",
+    "revision": "6a1f6cd8462bc6ba1dd9",
     "url": "/autev2/static/css/main.981f7211.chunk.css"
   },
   {
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/autev2/static/js/2.d50d2a53.chunk.js"
   },
   {
-    "revision": "d69c7fa4711b273b6a9a",
-    "url": "/autev2/static/js/main.4c540400.chunk.js"
+    "revision": "6a1f6cd8462bc6ba1dd9",
+    "url": "/autev2/static/js/main.b4e5c66d.chunk.js"
   },
   {
     "revision": "2d5499cf1109da5bfdec",
     "url": "/autev2/static/js/runtime-main.f33544bb.js"
+  },
+  {
+    "revision": "4e1ec8403d903dc514271d7328fbdeb3",
+    "url": "/autev2/static/media/persik.4e1ec840.png"
   }
 ]);
