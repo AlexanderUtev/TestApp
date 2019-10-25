@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/autev2/static/css/main.2c44505d.chunk.css",
-    "main.js": "/autev2/static/js/main.79da6f9e.chunk.js",
-    "main.js.map": "/autev2/static/js/main.79da6f9e.chunk.js.map",
+    "main.js": "/autev2/static/js/main.4a1c80da.chunk.js",
+    "main.js.map": "/autev2/static/js/main.4a1c80da.chunk.js.map",
     "runtime-main.js": "/autev2/static/js/runtime-main.f33544bb.js",
     "runtime-main.js.map": "/autev2/static/js/runtime-main.f33544bb.js.map",
     "static/css/2.4e89ce74.chunk.css": "/autev2/static/css/2.4e89ce74.chunk.css",
     "static/js/2.bf131466.chunk.js": "/autev2/static/js/2.bf131466.chunk.js",
     "static/js/2.bf131466.chunk.js.map": "/autev2/static/js/2.bf131466.chunk.js.map",
     "index.html": "/autev2/index.html",
-    "precache-manifest.a82c808568e51471f04c5da5827ad0ec.js": "/autev2/precache-manifest.a82c808568e51471f04c5da5827ad0ec.js",
+    "precache-manifest.78424863adc2b08226231c84648c08f1.js": "/autev2/precache-manifest.78424863adc2b08226231c84648c08f1.js",
     "service-worker.js": "/autev2/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/autev2/static/css/2.4e89ce74.chunk.css.map",
     "static/css/main.2c44505d.chunk.css.map": "/autev2/static/css/main.2c44505d.chunk.css.map"
