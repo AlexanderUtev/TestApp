@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f0c8be1a1cd95aa5a60914ea1d596ab",
+    "revision": "e92f8bdd6f3ffe68f4ac4d6a02de0587",
     "url": "/autev2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/autev2/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "20371f5501b5408027af",
+    "revision": "e8d1233953947fbebdc4",
     "url": "/autev2/static/css/main.8cc5f776.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/autev2/static/js/2.86476682.chunk.js"
   },
   {
-    "revision": "20371f5501b5408027af",
-    "url": "/autev2/static/js/main.4e52db28.chunk.js"
+    "revision": "e8d1233953947fbebdc4",
+    "url": "/autev2/static/js/main.2acc9581.chunk.js"
   },
   {
     "revision": "2d5499cf1109da5bfdec",
