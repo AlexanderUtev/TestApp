@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/autev2/static/css/main.981f7211.chunk.css",
+    "main.js": "/autev2/static/js/main.463cf90a.chunk.js",
+    "main.js.map": "/autev2/static/js/main.463cf90a.chunk.js.map",
+    "runtime-main.js": "/autev2/static/js/runtime-main.f33544bb.js",
+    "runtime-main.js.map": "/autev2/static/js/runtime-main.f33544bb.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/autev2/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.d50d2a53.chunk.js": "/autev2/static/js/2.d50d2a53.chunk.js",
+    "static/js/2.d50d2a53.chunk.js.map": "/autev2/static/js/2.d50d2a53.chunk.js.map",
+    "index.html": "/autev2/index.html",
+    "precache-manifest.64dad72143cdcdea745f7b21e9e37550.js": "/autev2/precache-manifest.64dad72143cdcdea745f7b21e9e37550.js",
+    "service-worker.js": "/autev2/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/autev2/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/autev2/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/autev2/static/media/persik.4e1ec840.png"
+  }
+}
