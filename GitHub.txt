@@ -1,0 +1,6 @@
+1) Папка с сервисом > ПКМ > Git Bush Here.
+2) Вписываем команды:
+git add .
+git commit -m '1'
+git push -u origin master -f
+3) Сервис перезалит, выходим.

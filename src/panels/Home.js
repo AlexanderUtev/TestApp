@@ -29,6 +29,7 @@ const Home = ({ id, go, fetchedUser }) => (
 				<Button style={{marginTop: 15}}  size="xl" level="2" onClick={go} data-to="artem">
 					Показать Артёма!
 				</Button>
+				
 			</Div>
 		</Group>
 	</Panel>
